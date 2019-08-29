@@ -1,0 +1,19 @@
+{
+  "name": "varunn",
+  "version": "1.0.0",
+  "description": "asdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Va-ru/VARUNPORJECT.git"
+  },
+  "author": "varun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Va-ru/VARUNPORJECT/issues"
+  },
+  "homepage": "https://github.com/Va-ru/VARUNPORJECT#readme"
+}
