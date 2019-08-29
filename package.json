@@ -18,5 +18,6 @@
   "homepage": "https://github.com/Va-ru/VARUNPORJECT#readme",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {}
 }
